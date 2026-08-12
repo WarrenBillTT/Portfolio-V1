@@ -2,7 +2,7 @@
 
 An interactive personal portfolio built with **React**, **Three.js**, and **Vite**, showcasing work experience, projects, and contact info with 3D animations and smooth transitions.
 
-🔗 **Live Demo:**
+🔗 **Live Demo:** Coming soon
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
