@@ -1,4 +1,4 @@
-# ✨ Warren Bill: Personal Portfolio
+# Warren Bill: Personal Portfolio
 
 An interactive personal portfolio built with **React**, **Three.js**, and **Vite**, showcasing work experience, projects, and contact info with 3D animations and smooth transitions.
 
@@ -11,7 +11,7 @@ An interactive personal portfolio built with **React**, **Three.js**, and **Vite
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 This website is a personal portfolio featuring:
 - An interactive **Hero Section** with a 3D model and parallax effects using `react-three-fiber` and `drei`
@@ -22,7 +22,7 @@ This website is a personal portfolio featuring:
 - An interactive globe built with **cobe**
 - Smooth animations powered by **motion (Framer Motion)**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |---|---|
@@ -34,7 +34,7 @@ This website is a personal portfolio featuring:
 | Utilities | react-responsive, tailwind-merge |
 | Linting | ESLint |
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Portofolio-V1/
@@ -53,7 +53,7 @@ Portofolio-V1/
 └── package.json
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -82,7 +82,7 @@ Portofolio-V1/
    npm run preview
    ```
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Command | Description |
 |---|---|
@@ -91,6 +91,6 @@ Portofolio-V1/
 | `npm run lint` | Runs ESLint |
 | `npm run preview` | Previews the production build locally |
 
-## 📄 License
+## License
 
 This project was built for personal use. Feel free to use it as a reference, but please don't copy it identically for your own portfolio.
