@@ -2,6 +2,8 @@
 
 An interactive personal portfolio built with **React**, **Three.js**, and **Vite**, showcasing work experience, projects, and contact info with 3D animations and smooth transitions.
 
+![Image](https://github.com/WarrenBillTT/Portfolio-V1/blob/main/portfolio.png)
+
 🔗 **Live Demo:** Coming soon
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
